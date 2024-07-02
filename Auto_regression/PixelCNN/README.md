@@ -1,4 +1,4 @@
-# PixelCNN Image Generation Project
+# PixelCNN Image Generation 
 
 ## Overview
 
