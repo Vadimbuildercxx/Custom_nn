@@ -59,13 +59,13 @@ Found a bug? Want to add a feature? Contributions are welcome!
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YourUsername/neural-networks-scratch&type=Date)](https://star-history.com/#YourUsername/neural-networks-scratch&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Vadimbuildercxx/Custom_nn&type=Date)](https://star-history.com/#Vadimbuildercxx/Custom_nn&Date)
 
 ## 📖 Learn More
 
 - [PixelCNN Paper](https://arxiv.org/abs/1601.06759)
 - [Word2Vec Paper](https://arxiv.org/abs/1301.3781)
-- [Implementation Details](./docs/IMPLEMENTATION.md)
+- [Implementation Details(Soon)](./docs/IMPLEMENTATION.md)
 
 ## 🎓 Educational Resources
 
