@@ -48,8 +48,8 @@ Found a bug? Want to add a feature? Contributions are welcome!
 ## 📝 Citation
 
 ```bibtex
-@misc{neural-nets-scratch,
-  author = {Your Name},
+@misc{Custom_nn,
+  author = {Vadimbuildercxx},
   title = {Neural Networks From Scratch},
   year = {2024},
   publisher = {GitHub},
