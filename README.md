@@ -89,4 +89,4 @@ Perfect for:
 
 ## 📜 License
 
-MIT © [Your Name]
+MIT © 
